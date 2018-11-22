@@ -1,4 +1,4 @@
-# NovelWritingProgram
+# Novel Writing Program
 
 Description
 This is a program which consolidates a number of writing techniques to create an integrated method of story planning.
