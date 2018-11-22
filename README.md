@@ -1,10 +1,10 @@
 # Novel Writing Program
 
-Description
+# Description
 
 This is a program which consolidates a number of writing techniques to create an integrated method of story planning.
 
-Works Cited
+# Works Cited
 
 Adler, Mortimer J., and Charles Van Doren. How to Read a Book: the Art of Getting a Liberal Education. Simon & Schuster, 2006. 
 
